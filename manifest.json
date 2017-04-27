@@ -1,0 +1,13 @@
+{
+    "short_name": "Photos",
+    "name": "Photos",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#ECECEC",
+    "theme_color": "#1E88E5",
+    "icons": [{
+        "src": "images/photos.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    }]
+}
